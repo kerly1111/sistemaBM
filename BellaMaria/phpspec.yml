@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: BellaMaria
+        psr4_prefix: BellaMaria
+        src_path: app
